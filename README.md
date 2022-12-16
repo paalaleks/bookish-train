@@ -1,34 +1,59 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Your project title
+
+![image](https://res.cloudinary.com/paalaleks/image/upload/v1671140172/medium_Screenshot_2022_12_15_at_22_35_19_9cc06b43ba.png)
+
+## Description
+
+This project is my exam project the last semester in school. The website is for a solar company that install and maintain solar systems on residential and warehouse buildings. 
+
+You can add some bullet points if you'd like to:
+
+- Airtable is used for collecting formdata.
+- React hook form is used to collect formdata with react hooks.
+- Next.js is used to make the webpage seo friendly and run effeciently with static page rendering.
+
+## Built With
+
+You can list a the tech stack that you've used over here
+
+- [Next.js](https://nextjs.org/)
+- [React hook form](https://react-hook-form.com)
+- [Tailwind](https://tailwindcss.com/)
+- [Airtable](https://airtable.com)
+- [Vercel](https://vercel.com)
 
 ## Getting Started
 
-First, run the development server:
+### Installing
+
+Clone the repo with the following commands:
+
+1. Clone the repo:
 
 ```bash
-npm run dev
-# or
-yarn dev
+git clone https://github.com/paalaleks/fakeshoestore.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. Install the dependencies:
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+```
+npm install
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Running
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+After you cloned and installed the dependencies you can run the app locally on port http://localhost:1234
 
-## Learn More
+To run the app, run the following commands:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run start
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-## Deploy on Vercel
+[Email me for requests you might have](mailto:paalaleks@hotmail.com)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[Or find me on LinkedIn](www.linkedin.com/in/fullstakk)
