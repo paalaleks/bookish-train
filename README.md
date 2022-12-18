@@ -6,9 +6,8 @@
 
 This project is my exam project the last semester in school. The website is for a solar company that install and maintain solar systems on residential and warehouse buildings. 
 
-You can add some bullet points if you'd like to:
 
-- Airtable is used for collecting formdata.
+- Airtable is used for collecting formdata, adding it to spreadsheet and sending emails to pro solar on form submit.
 - React hook form is used to collect formdata with react hooks.
 - Next.js is used to make the webpage seo friendly and run effeciently with static page rendering.
 
@@ -42,7 +41,7 @@ npm install
 
 ### Running
 
-After you cloned and installed the dependencies you can run the app locally on port http://localhost:1234
+After you cloned and installed the dependencies you can run the app locally on port http://localhost:3000
 
 To run the app, run the following commands:
 
