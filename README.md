@@ -49,7 +49,7 @@ To run the app, run the following commands:
 npm run start
 ```
 
-### Check out the deployed webpage
+## Check out the deployed webpage
 
 [https://bookish-train.vercel.app/](https://bookish-train.vercel.app/)
 
