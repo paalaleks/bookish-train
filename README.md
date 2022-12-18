@@ -49,6 +49,9 @@ To run the app, run the following commands:
 npm run start
 ```
 
+###Check out the deployed webpage
+
+
 ## Contact
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
@@ -56,3 +59,6 @@ This is where you can leave your social links for people to contact you, such as
 [Email me for requests you might have](mailto:paalaleks@hotmail.com)
 
 [Or find me on LinkedIn](www.linkedin.com/in/fullstakk)
+
+
+
